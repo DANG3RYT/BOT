@@ -1,0 +1,6 @@
+{                          
+                 
+              "ip":"DANG3R_SMP.aternos.me",
+              "port":"35625",
+              "name":"BOT"
+}
